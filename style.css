@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(150, 96, 96, 0.315);
+  font-family: 'Dancing Script', cursive;}
+
+  .container{
+
+    max-width: 1000px;
+    background-color: #d1d8e0ee;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  header{
+
+
+  }
+  .profile-imge{
+            
+        width: 120px;
+        height: 120px;
+        border: 3px solid white;
+        border-radius: 50%;
+         float: left;}
+
+   .header-bio{ 
+            float: left;
+            padding: 30px;
+   }     
+
+   h1,h2,h3,h4,h5,h6{
+    color:#11999e;
+   }
+   .hader-contact{
+    float: right;
+    padding: 30px;
+    font-size: 20px;
+    
+   }
+   .hader-contact a{
+    text-decoration: none;
+    color: #11999e;
+    font-weight: bold;
+
+   }
+
+   .hader-contact a:hover{
+    text-decoration: underline;
+    color: tomato;
+   }
+.div-clear{
+    clear: both;
+}
+hr{
+    border: solid black 2px;
+    width: 100%;
+    margin: 15px auto;
+    border: auto;
+}
+/* pesonal section start  */
+#personal-section{
+
+}
+.content{
+    margin: 30px;
+
+}
+h2{
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+
+}
+.right-div{
+    width: 70%;
+    float: left;
+    font-size: 18px;
+}
+
+.commom-hr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 15px auto;
+}
+
+.pi{
+    color: #11999e;;
+}
+
+.edu-template-left{
+    float:left;
+    width: 45%;
+}
+.edu-template-right{
+    float: right;
+    width: 45%;
+}
+
+.bottom{
+
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.bottom a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+
+}
+.bottom p{
+    color: white;
+    margin-top: 20px;
+
+}
